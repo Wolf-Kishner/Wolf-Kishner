@@ -7,7 +7,7 @@ Undergrad at VNIT , Nagpur
 Interested in the WEB Technologies and Development
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [vedant08@gmail.com](mailto:vedant8kulkarni@gmail.com)
+* ✉️  You can contact me at [vedant8kulkarni@gmail.com](mailto:vedant8kulkarni@gmail.com)
 * 🧠  I'm learning REACT.js
 * 🤝  I'm open to collaborating on Frontend projects
 
